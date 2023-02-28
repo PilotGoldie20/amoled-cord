@@ -2,7 +2,7 @@
     "name": "AMOLED-Cord",
     "description": "A simple, no-bullshit AMOLED theme for Discord. Lights out baby!",
     "version": "3.0.0",
-    "author": "LuckFire#4800",
+    "author": "Pilot20",
     "theme": "/src/_index.scss",
     "consent": "true",
     "license": "MIT"
