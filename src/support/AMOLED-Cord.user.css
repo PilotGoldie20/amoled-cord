@@ -2,11 +2,11 @@
     /* ==UserStyle==
     @name         AMOLED-Cord
     @description  A simple, no-bullshit AMOLED theme that's nice on your eyes. Lights out baby!
-    @author       LuckFire#4800
-    @namespace    github.com/LuckFire/amoled-cord
-    @version      3.0.0
+    @author       Pilot20
+    @namespace    github.com/PilotGoldie20/amoled-cord
+    @version     1.0.2
     ==/UserStyle== */
 
     @import url("https://nyri4.github.io/Discolored/main.css");
-    @import url("https://github.com/PilotGoldie20/amoled-cord/blob/main/src/support/compiled.css");
+    @import url("https://PilotGoldie20.github.io/amoled-cord/src/support/compiled.css");
 }
